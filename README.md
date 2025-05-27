@@ -1,33 +1,70 @@
-<h1 align="center">Olá 👋, eu sou [Eduardo]</h1>
-<h3 align="center">Apaixonado por dados e Business Intelligence</h3>
+<h3>“Existe uma engrenagem: um dado, uma vez lapidado, ajuda a construir uma informação. Essa informação, uma vez ambientada num contexto, ajuda a formar um conhecimento.”</h3>
 
-- 📊 Atualmente trabalho com **Power BI, SQL e Python para análise de dados**
-- 🚀 Compartilho conteúdos sobre BI, carreira e projetos pessoais
-- 🌱 Estou sempre aprendendo sobre **Data Engineering**
-- 💬 Me pergunte sobre **Power BI, DAX, ETL, e boas práticas de visualização**
-- 📫 Contato: [seu.email@email.com](mailto:seu.email@email.com)
-- 📄 Portfólio: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
+<div align="left">
+  <a href="mailto:eduardomoraislisboa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/eduardomoraislisboa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo" />
+  </a>
+</div>
 
----
+<br><br>
 
-### 🛠️ Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://github.com/user-attachments/assets/a4059763-f625-403f-b9aa-f703fb0a5756" alt="anime-hacking" />
+
+<h2 align="left">Olá! Me chamo Eduardo Lisboa, um analista de dados que vê na informação a verdade do mundo.</h2>
+
+<p>
+Sou Analista de Dados e vejo na informação a chave para compreender a realidade. Atuo com Business Intelligence, com foco nos processos de coleta, tratamento e visualização de dados por meio de dashboards, KPIs e indicadores que apoiam a tomada de decisão. Meu objetivo é contribuir com minha equipe na evolução dos dados e na geração de insights estratégicos.
 </p>
 
----
+<hr>
 
-### 📈 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuUsuario&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuUsuario&layout=compact&theme=radical"/>
-</p>
+<h3 align="left">🚀 Linguagens e Ferramentas</h3>
+<hr>
 
----
+<h4>💻 Uso diário:</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="22" alt="power_bi logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="22" alt="tableau logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="22" alt="excel logo" />
+</div>
 
-### 📢 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seuusuario)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/seucanal)
+<hr>
+
+<h4>📚 Tenho conhecimento:</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="22" alt="sql server logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="22" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="22" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-F7DF1E?style=for-the-badge&logo=microsoft-fabric&logoColor=black" height="22" alt="microsoft fabric logo" />
+</div>
+
+<hr>
+
+<h4>🌱 Estou aprendendo:</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/Databricks-E32A0C?style=for-the-badge&logo=databricks&logoColor=white" height="22" alt="databricks logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="22" alt="azure logo" />
+</div>
+
+<hr>
+
+<!-- Cobrinha de contribuição -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Cobrinha animada de contribuições do GitHub" />
+
+<hr>
+
+<h1 align="left">⚡ Portfólio</h1>
+<h3>
+  <a href="https://eduardomorais96.wixsite.com/eduardoportfolio" target="_blank">Acesse o portfólio</a>
+</h3>
+
+<hr>
