@@ -1,10 +1,12 @@
-<h2 align="left"> Olá! Me chamo Eduardo Lisboa, sou analista de dados e acredito que a informação, quando bem trabalhada, revela verdades essenciais para tomadas de decisão estratégicas.</h2>
+![Image](https://github.com/user-attachments/assets/f8ccc41e-cece-43a8-99c1-1a69caac3c61)
+
+<!-- <h2 align="left"> Olá! Me chamo Eduardo Lisboa, sou analista de dados e acredito que a informação, quando bem trabalhada, revela verdades essenciais para tomadas de decisão estratégicas.</h2>-->
 
 Sou Analista de Dados e vejo na informação a chave para compreender a realidade. Atuo com Business Intelligence, com foco nos processos de coleta, tratamento e visualização de dados por meio de dashboards, KPIs e indicadores que apoiam a tomada de decisão. Meu objetivo é contribuir com minha equipe na evolução dos dados e na geração de insights estratégicos.
 
 </p>
 
-- 📊 Atualmente trabalho com **Power BI, SQL e Python para análise de dados**  
+- 📊 Atualmente trabalho com **Power BI e SQL**  para análise de dados 
 - 🚀 Compartilho conteúdos sobre BI, carreira e projetos pessoais  
 - 🌱 Estou sempre aprendendo sobre **Analise de Dados**  
 - 💬 Me pergunte sobre **Power BI, DAX, ETL e boas práticas de visualização**  
