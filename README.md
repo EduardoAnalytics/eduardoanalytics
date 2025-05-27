@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Me chamo Eduardo Lisboa, um analista de dados que vê na informação a verdade do mundo.</h2>
+<h2 align="left"> Olá! Me chamo Eduardo Lisboa, sou analista de dados e acredito que a informação, quando bem trabalhada, revela verdades essenciais para tomadas de decisão estratégicas.</h2>
 
 Sou Analista de Dados e vejo na informação a chave para compreender a realidade. Atuo com Business Intelligence, com foco nos processos de coleta, tratamento e visualização de dados por meio de dashboards, KPIs e indicadores que apoiam a tomada de decisão. Meu objetivo é contribuir com minha equipe na evolução dos dados e na geração de insights estratégicos.
 
@@ -13,7 +13,7 @@ Sou Analista de Dados e vejo na informação a chave para compreender a realidad
    
 <h3>“Existe uma engrenagem: um dado, uma vez lapidado, ajuda a construir uma informação. Essa informação, uma vez ambientada num contexto, ajuda a formar um conhecimento.”</h3>
 
-![anime-hacking](https://github.com/user-attachments/assets/a4059763-f625-403f-b9aa-f703fb0a5756)
+![anime-hacking](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 
 
