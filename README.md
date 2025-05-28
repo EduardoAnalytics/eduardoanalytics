@@ -36,22 +36,22 @@ Sou Analista de Dados e vejo na informação a chave para compreender a realidad
 <hr>
 <h4>📚 Tenho conhecimento:</h4>
 <div align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft Fabric-5C2D91?style=for-the-badge&logo=microsoftfabric&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Microsoft Fabric-5C2D91?style=for-the-badge&logo=microsoftfabric&logoColor=white" />
   <img width="12" />
-  <img src ="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" height="22" />
+  <img src ="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
   <img width="12" />
-  <img src ="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="22" />
+  <img src ="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
   <img width="12" />  
 <hr>
 <h4>🌱 Estou aprendendo:</h4>
 <div align="left">
-  <img src="https://img.shields.io/badge/Databricks-E32A0C?style=for-the-badge&logo=databricks&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Databricks-E32A0C?style=for-the-badge&logo=databricks&logoColor=white" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
 ---
