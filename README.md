@@ -6,7 +6,7 @@ Sou Analista de Dados e vejo na informação a chave para compreender a realidad
 
 </p>
 
-- 📊 Atualmente trabalho com **Power BI e SQL**  para análise de dados 
+- 📊 Atualmente trabalho com **Power BI, SQL e Figma**  para análise de dados 
 - 🚀 Compartilho conteúdos sobre BI, carreira e projetos pessoais  
 - 🌱 Estou sempre aprendendo sobre **Analise de Dados**  
 - 💬 Me pergunte sobre **Power BI, DAX, ETL e boas práticas de visualização**  
@@ -24,20 +24,27 @@ Sou Analista de Dados e vejo na informação a chave para compreender a realidad
 <h3 align="left">🚀 Linguagens e Ferramentas</h3>
 <h4>💻 Uso diário:</h4>
 <div align="left">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img width="12" />
 </div>
 <hr>
 <h4>📚 Tenho conhecimento:</h4>
 <div align="left">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="22" />
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="22" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-F7DF1E?style=for-the-badge&logo=microsoft-fabric&logoColor=black" height="22" />
+  <img src="https://img.shields.io/badge/Microsoft Fabric-5C2D91?style=for-the-badge&logo=microsoftfabric&logoColor=white" height="22" />
+  <img width="12" />
+  <img src ="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" height="22" />
+  <img width="12" />
+  <img src ="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="22" />
+  <img width="12" />  
 <hr>
 <h4>🌱 Estou aprendendo:</h4>
 <div align="left">
