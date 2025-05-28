@@ -37,8 +37,6 @@ Sou Analista de Dados e vejo na informação a chave para compreender a realidad
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="22" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="22" />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Microsoft_Fabric-F7DF1E?style=for-the-badge&logo=microsoft-fabric&logoColor=black" height="22" />
 <hr>
 <h4>🌱 Estou aprendendo:</h4>
